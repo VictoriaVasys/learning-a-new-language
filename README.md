@@ -1,3 +1,10 @@
+# About this Repo
+#### This README includes our favorite processes & how-tos
+#### `resources/` includes broader learning aids with a directory for each of many languages
+#### `student-tutorials/` will be a collection of tutorials built by you! 
+* Feel free to make a PR to include your tutorials & tools & processes. If editing within `resources/`, be sure to create a directory for the version of the language you're targeting & follow the file structure & content as modeled in `Ruby/Ruby-2.4.1`. 
+* (FYI: `administrative/` includes requirements & outline for the M4 Gear-up)
+
 # General learning & language-learning practices
 
 ## Deliberate Practice
