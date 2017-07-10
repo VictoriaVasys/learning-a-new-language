@@ -45,4 +45,4 @@
 - Discuss challenges, lessons learned.
 
 
-### Names of group members: Devon Bull, Jen Peavler, Victoria Vasys, Joseph Glass, Chris Jordan
+### Names of group members: Devon Bull, Jenn Peavler, Victoria Vasys, Joseph Glass, Chris Jordan
