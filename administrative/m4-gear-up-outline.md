@@ -1,6 +1,13 @@
 # Group Five
 
-# Session Title: How and When to Learn a New Language?
+# Session Title: How & When to Learn a New Programming Language
+
+## Blurb
+* No one wants to be a one-language-trick-pony! How do you become a bilingual pony? We've gotchya covered.
+    
+## Prework
+* Consider which language you'd like to learn next!
+* Add your github name to the channel!
 
 ### Session Outcomes:
 - Create a repo of resources and tutorials for learning new languages and technologies that students can contribute to.
@@ -42,7 +49,11 @@ What is the next language you'd like to learn?
   - Books
   - Hello World
   - Stack Overflow
-  - Practice! (exercisms, codewars, hackerrank, etc.)
+  - Practice!
+    * exercisms http://exercism.io/languages/
+    * codewars https://www.codewars.com/
+    * hackerrank https://www.hackerrank.com/dashboard
+    * Turing challenges https://github.com/turingschool/challenges
   - Find Online communities
 
 - Video (Jenn - 5 mins)
