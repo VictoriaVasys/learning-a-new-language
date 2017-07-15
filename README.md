@@ -41,6 +41,9 @@ Clone this repo
   * Hello World
   * Stack Overflow
   * Practice!
-    * exercisms, codewars, hackerrank, etc.
+    * exercisms http://exercism.io/languages/
+    * codewars https://www.codewars.com/
+    * hackerrank https://www.hackerrank.com/dashboard
+    * Turing challenges https://github.com/turingschool/challenges
   * Find Online communities
     * reddit.com/r/learnprogramming
