@@ -1,12 +1,22 @@
-# About this Repo
-#### This README includes our favorite processes & how-tos
-#### `resources/` includes broader learning aids with a directory for each of many languages
-#### `student-tutorials/` will be a collection of tutorials built by you!
-* Feel free to make a PR to include your tutorials & tools & processes. If editing within `resources/`, be sure to create a directory for the version of the language you're targeting & follow the file structure & content as modeled in `Ruby/Ruby-2.4.1`.
-* (FYI: `administrative/` includes requirements & outline for the M4 Gear-up)
-
 Clone this repo
-`git clone git@github.com:VictoriaVasys/learning-a-new-language.git`
+```
+git clone git@github.com:VictoriaVasys/learning-a-new-language.git
+```
+
+# About
+#### This README includes our favorite processes & how-tos
+#### `resources/` includes broader learning aids with a directory per language
+* Feel free to add directories!
+* If editing within `resources/`, please:
+  * create a directory for the version of the language & 
+  * follow the file structure & content as modeled in `Ruby/Ruby-2.4.1`.
+
+#### `student-tutorials/` will be a collection of tutorials built by you!
+* Feel free to make a PR to include your tutorials & tools & processes. 
+
+#### `administrative/` includes requirements & outline for the M4 Gear-up
+
+
 
 # General learning & language-learning practices
 
@@ -42,16 +52,17 @@ Clone this repo
     * imperative v. structured v. procedural v. functional v. event-driven v. object-oriented v. declarative v. automated-based (nice comparison chart: https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
 ## Where to start
-1. Tutorials (+ Hello, World!)
-2. Docs
-3. Books (scan, then read in-depth after you've got the basics)
-  
+1. Tutorials 
+  * "Hello, World!"
+  * [CodeCademy](https://www.codecademy.com/)
+  * [W3Schools](https://www.w3schools.com/)
+  * [Launch School](https://launchschool.com/courses)
+2. Docs + Online Communites
+  * [Stack Overflow](https://stackoverflow.com/)
+  * [Reddit](reddit.com/r/learnprogramming)
+3. Books (scan first, read later) & Practice!!!
+  * [Exercisms](http://exercism.io/languages/)
+  * [Codewars](https://www.codewars.com/)
+  * [HackerRank](https://www.hackerrank.com/dashboard)
+  * [Turing Challenges](https://github.com/turingschool/challenges)
 
-- Practice!
-  * [exercisms](http://exercism.io/languages/)
-  * [codewars](https://www.codewars.com/)
-  * [hackerrank](https://www.hackerrank.com/dashboard)
-  * [Turing challenges](https://github.com/turingschool/challenges)
-- Find Online communities
-  * [reddit](reddit.com/r/learnprogramming)
-- Stack Overflow

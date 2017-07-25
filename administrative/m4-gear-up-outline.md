@@ -35,14 +35,14 @@ What is the next language you'd like to learn?
     - Get feedback
     - Update
 
-   - Motivations & Accountability
+  - Motivations & Accountability
     - Project
     - Teaching
       - Tutoring
       - Blog posts
       - Pairing
 
-   - Pitfalls
+  - Pitfalls
      - Don't read book cover to cover without coding along the way.
 
 ##### When to start / resources (Victoria - 2 min)
