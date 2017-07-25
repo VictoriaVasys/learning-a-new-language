@@ -32,6 +32,8 @@ Clone this repo
   * Don't read book cover to cover without coding along the way.
 
 ## How to choose a language
+  * Consider motivations & depth v. breadth
+    * Avoid learning a new language until you've got a deep understanding of the most recent one you've learned
   * Consider companies you'd like to work for & find out the languages they use
   * Consider the language(s) you know & whether you want to learn something similar or completely different; consider the following:
     * high-, mid- & low-level languages (https://stackoverflow.com/questions/3468068/low-mid-high-level-language-whats-the-difference)
@@ -39,12 +41,10 @@ Clone this repo
     * strongly v. weakly (or loosely) typed (https://en.wikipedia.org/wiki/Strong_and_weak_typing, https://stackoverflow.com/questions/2351190/static-dynamic-vs-strong-weak)
     * imperative v. structured v. procedural v. functional v. event-driven v. object-oriented v. declarative v. automated-based (nice comparison chart: https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
-## When & where to start
-1.  Consider motivations, career impact, depth v breadth
-  * Mentors & programmers suggest a zigzag philosophy; go deep, then broaden
-2. Tutorials (+ Hello, World!)
-3. Docs
-4. Books (scan, then read in-depth after you've got the basics)
+## Where to start
+1. Tutorials (+ Hello, World!)
+2. Docs
+3. Books (scan, then read in-depth after you've got the basics)
   
 
 - Practice!
