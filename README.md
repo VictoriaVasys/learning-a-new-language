@@ -11,7 +11,6 @@ Clone this repo
 # General learning & language-learning practices
 
 ## Deliberate Practice
-  * Breakdown
 
 ### Process of learning
   * ID a specific subset
@@ -19,10 +18,15 @@ Clone this repo
   * Get feedback
   * Update
 
-### Motivations
+### Motivations & Accountability
+  * Make deadlines
   * Project
-  * Teaching deadline
   * Career
+  * Teaching
+    * Tutoring
+    * Blog posts
+    * Pairing
+  
 
 ### Pitfalls
   * Don't read book cover to cover without coding along the way.
@@ -35,15 +39,19 @@ Clone this repo
     * strongly v. weakly (or loosely) typed (https://en.wikipedia.org/wiki/Strong_and_weak_typing, https://stackoverflow.com/questions/2351190/static-dynamic-vs-strong-weak)
     * imperative v. structured v. procedural v. functional v. event-driven v. object-oriented v. declarative v. automated-based (nice comparison chart: https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
-## Where to start with a new programming language
-  * Docs (Environment Setup)
-  * Books
-  * Hello World
-  * Stack Overflow
-  * Practice!
-    * exercisms http://exercism.io/languages/
-    * codewars https://www.codewars.com/
-    * hackerrank https://www.hackerrank.com/dashboard
-    * Turing challenges https://github.com/turingschool/challenges
-  * Find Online communities
-    * reddit.com/r/learnprogramming
+## When & where to start
+1.  Consider motivations, career impact, depth v breadth
+  * Mentors & programmers suggest a zigzag philosophy; go deep, then broaden
+2. Tutorials (+ Hello, World!)
+3. Docs
+4. Books (scan, then read in-depth after you've got the basics)
+  
+
+- Practice!
+  * [exercisms](http://exercism.io/languages/)
+  * [codewars](https://www.codewars.com/)
+  * [hackerrank](https://www.hackerrank.com/dashboard)
+  * [Turing challenges](https://github.com/turingschool/challenges)
+- Find Online communities
+  * [reddit](reddit.com/r/learnprogramming)
+- Stack Overflow
